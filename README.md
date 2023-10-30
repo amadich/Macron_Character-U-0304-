@@ -10,3 +10,10 @@ const inputLetter = "B";
 
 Wiki : 
 B̄ (minuscule : b̄), appelé B macron, est un graphème utilisé dans l’écriture du kire et dans la romanisations ISO 233-1 de l’écriture arabe. Il s'agit de la lettre B diacritée d'un macron.
+
+The way to operate the program is easy
+You only need to have the latest node js version
+And write the following command:
+```cmd
+node ./index.js
+```
